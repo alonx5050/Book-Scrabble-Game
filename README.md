@@ -88,5 +88,7 @@ A legal word must meet all of the following conditions:
 
 ### Game Example
 
+<img src="https://user-images.githubusercontent.com/118439273/229486334-5985074d-ffa1-4366-bc21-8acfd1d4445d.png" width="1080" height="120" />
+<img src="https://github.com/alonx5050/Book-Scrabble-Game/blob/main/Server%20side/Book%20Scarbble/Example%20Book%20Scrabble.jpg"/>
 
 
