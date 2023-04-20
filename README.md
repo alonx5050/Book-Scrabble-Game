@@ -92,3 +92,17 @@ A legal word must meet all of the following conditions:
 <img src="https://github.com/alonx5050/Book-Scrabble-Game/blob/main/Server%20side/Book%20Scarbble/Example%20Book%20Scrabble.jpg" width="1080" height="120" />
 
 
+Let's assume for the  example that there are 2 players and the letter R sits on the star.
+- Player A wrote the word Horn,  that worth 7 points, but received a double score (star bonus) and completed 4 from the bag.
+- Player B wrote the word Farm, that worth 9 points and completed 3 from the bag.
+- Player A wrote the word Paste which alone is worth 7 points, however  The letters P and E fell on the "triple letter" slot, so the word is worth 15 points.
+  In addition, the word Farms was created, which is worth 10 points, so he received a total of 25 points.
+  
+- Player B wrote the word Mob (and completed from bag 2)
+    Besides her, the words Not and Be were also created on the board, And together with the bonus slots on the board he got 18 points in total.
+- Player A  wrote Bit and similarly received a cumulative score of 22 points for Pi, Bit and At.
+
+  
+  
+ 
+  
