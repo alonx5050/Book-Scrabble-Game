@@ -17,6 +17,9 @@ The game also includes a dictionary of book-related words and phrases, so player
 
 
 
+## Collaborators
+
+
 ## Features
 
 
