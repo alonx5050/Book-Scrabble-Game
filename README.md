@@ -17,6 +17,14 @@ The game also includes a dictionary of book-related words and phrases, so player
 - [Shlomi90](https://github.com/RoeeShemesh)
 
 
+
+## Video links
+
+-  Demo video - will be added
+- Project presentation video - will be added
+
+
+
 ## Features
 
 
