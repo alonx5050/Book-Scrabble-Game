@@ -1,4 +1,4 @@
-# Book-Scrabble-Game
+# Book_Scrabble_Game
 
 Book Scrabble is a word game in which two to four players score points by placing tiles, each bearing a single letter, onto a game board divided into a 15×15 grid of squares. The tiles must form words that, in crossword fashion, read left to right in rows or downward in columns.  However, the legal words are not all the words in the dictionary English, but only words that appear in the books chosen for the game. 
 
