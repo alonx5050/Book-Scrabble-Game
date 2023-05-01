@@ -18,6 +18,10 @@ The game also includes a dictionary of book-related words and phrases, so player
 
 
 ## Collaborators
+- [alonx5050](alonx5050.md)
+- [shlomi90](shlomi90.md)
+- [RoeeShemesh](RoeeShemesh.md)
+
 
 
 ## Features
