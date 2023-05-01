@@ -13,7 +13,7 @@ The game also includes a dictionary of book-related words and phrases, so player
 
 ## Collaborators
 - [alonx5050](https://github.com/alonx5050)
-- [RoeeShemesh]((https://github.com/RoeeShemesh)
+- [RoeeShemesh](https://github.com/RoeeShemesh)
 - [Shlomi90](https://github.com/RoeeShemesh)
 
 
