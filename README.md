@@ -28,17 +28,11 @@ The game also includes a dictionary of book-related words and phrases, so player
 ## Features
 
 - Create an account and log into the game.
- 
 - Join other players or start a new game.
- 
 - Compete against other players in real-time.
- 
 - Look at the game board and the words played by other players.
- 
 - Use the dictionary to find words and phrases related to books.
-
 - Earn points based on the length and complexity of the words played.
- 
 - Bonus points can be earned by using certain tiles or forming certain parts of speech.
 
 
