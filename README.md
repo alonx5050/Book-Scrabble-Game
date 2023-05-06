@@ -36,6 +36,10 @@ The game also includes a dictionary of book-related words and phrases, so player
 - Bonus points can be earned by using certain tiles or forming certain parts of speech.
 
 
+# Gantt
+<img src=![image](https://user-images.githubusercontent.com/94148094/236623415-3b62e2fc-d0e9-44c6-9d38-3417890a7147.png)
+ width="360" height="180" /
+
 
 ## Game instructions
 
