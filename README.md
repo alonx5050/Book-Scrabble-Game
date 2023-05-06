@@ -37,7 +37,7 @@ The game also includes a dictionary of book-related words and phrases, so player
 
 
 # Gantt
-<img src="(https://user-images.githubusercontent.com/94148094/236623415-3b62e2fc-d0e9-44c6-9d38-3417890a7147.png" width="360" height="180" />
+<img src="https://user-images.githubusercontent.com/94148094/236623415-3b62e2fc-d0e9-44c6-9d38-3417890a7147.png" width="360" height="180" />
 
 
 
